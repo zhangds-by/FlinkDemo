@@ -1,63 +1,8 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-lib/
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-*.parquet
-*.crc
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
 ### VS Code ###
 .vscode/
 *.iml
 
-.metadata
-
-target
-.project
-.classpath
-.settings
-bin
 .idea
-test-output
-*.log
-.DS_store
-derby.log
-catalina.home_IS_UNDEFINED
-disconf
-logs
-
-bak
 /.idea
 
-.idea
-/kafka2hivesql/src/main/java/gaei/cn/x5l/x5lflinkbackup/utils/MyTest.java
-/.idea
-/source
-/result
-
-target
-*.iml
+target/
